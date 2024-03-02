@@ -2,7 +2,7 @@
 - AKA LOKESH
 - I'm an engineering student 
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Probability and ststistical modelling
+- 🌱 I’m currently learning Probability and Stastistical Modelling and Linear Algebra
 - 💞️ I’m looking to collaborate on some good and useful open source projects
 - 😄 Pronouns: Bat / Man
 - ⚡ Fun fact:I look at good prjects and yoink the code
