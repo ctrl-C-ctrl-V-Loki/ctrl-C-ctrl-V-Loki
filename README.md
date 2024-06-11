@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Probability and Stastistical Modelling and Linear Algebra
 - 💞️ I’m looking to collaborate on some good and useful open source projects
 - 😄 Pronouns: Bat / Man
-- ⚡ Fun fact:I look at good prjects and yoink the code
+- ⚡ Fun fact:I look at good projects and yoink the code
 
 <!---
 ctrl-C-ctrl-V-Loki/ctrl-C-ctrl-V-Loki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
