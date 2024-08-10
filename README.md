@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @ctrl-C-ctrl-V-Loki
-- AKA LOKESH
-- I'm an engineering student 
+- 👋 Hi, I’m a PIRATE 🏴‍☠️
+  💪 I study Computer Science
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Probability and Stastistical Modelling and Linear Algebra
-- 💞️ I’m looking to collaborate on some good and useful open source projects
+- 🌱 I’m currently learning P.......... S.......... M..........
+- 💞️ I’m looking for good code
 - 😄 Pronouns: Bat / Man
 - ⚡ Fun fact:I look at good projects and yoink the code
 
