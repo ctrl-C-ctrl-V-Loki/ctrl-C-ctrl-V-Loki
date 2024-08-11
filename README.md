@@ -1,7 +1,7 @@
 - 👋 Hi 😊 👋🏼 
 - 💪 I study Computer Science
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning P.......... S.......... M..........
+- 🌱 I’m currently learning 👌🏼👍🏼💻👨🏼‍💻⌨️🛜🖲️✍🏼📂🖥️🖱️⌨️🔥🐦‍🔥
 - 💞️ I’m looking for good code
 - 😄 Pronouns: Bat / Man
 - ⚡ Fun fact:I look at good projects and yoink the code
