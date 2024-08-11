@@ -1,4 +1,4 @@
-- 👋 Hi, I’m a PIRATE 🏴‍☠️
+- 👋 Hi 😊 👋🏼 
 - 💪 I study Computer Science
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning P.......... S.......... M..........
