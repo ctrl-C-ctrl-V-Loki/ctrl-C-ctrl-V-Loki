@@ -1,8 +1,9 @@
 
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&color=00FF00&center=true&vCenter=true&width=950&lines=You+talkin'+to+me%3F;I'll+be+back.;Why+so+serious%3F;Hasta+la+vista%2C+baby.;Life+finds+a+way.;I+am+Iron+Man.;To+infinity+and+beyond!;Say+'what'+again!;That's+a+bingo!;I+live+my+life+a+quarter+mile+at+a+time.;With+great+power+comes+great+responsibility.;I+can+do+this+all+day.;This+is+my+boomstick!;Why'd+it+have+to+be+snakes%3F;I+solemnly+swear+that+I+am+up+to+no+good.;Mischief+managed.;It+does+not+do+to+dwell+on+dreams+and+forget+to+live.;After+all%2C+why+not%3F+Why+shouldn't+I+keep+it%3F;You+shall+not+pass!;One+ring+to+rule+them+all.;Even+the+smallest+person+can+change+the+course+of+the+future.;I+would+have+gone+with+you+to+the+end%2C+into+the+very+fires+of+Mordor.;I+find+your+lack+of+faith+disturbing.;I'm+vengeance.)" alt="Typing Animation" />
+  <b>Top text 🥀</b>
 </p>
+
+
 
 
 
@@ -74,7 +75,11 @@
     </pre>
 </div>
 
+---
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&color=00FF00&center=true&vCenter=true&width=950&lines=You+talkin'+to+me%3F;I'll+be+back.;Why+so+serious%3F;Hasta+la+vista%2C+baby.;I+am+Iron+Man.;Say+'what'+again!;That's+a+bingo!;With+great+power+comes+great+responsibility.;I+can+do+this+all+day.;Why'd+it+have+to+be+snakes%3F;I+solemnly+swear+that+I+am+up+to+no+good.;Mischief+managed.;After+all%2C+why+not%3F+Why+shouldn't+I+keep+it%3F;You+shall+not+pass!;One+ring+to+rule+them+all.;Even+the+smallest+person+can+change+the+course+of+the+future.;I+find+your+lack+of+faith+disturbing.;I'm+vengeance.)" alt="Typing Animation" />
+</p>
 
 ---
 
