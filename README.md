@@ -1,10 +1,17 @@
 
 
-<!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&color=00FF00&center=true&vCenter=true&width=800&lines=May+the+Force+be+with+you...;I'm+going+to+make+him+an+offer+he+can't+refuse.;You+talkin'+to+me?;I'll+be+back.;Why+so+serious%3F;Here's+looking+at+you%2C+kid.;Hasta+la+vista%2C+baby.;Life+finds+a+way.;I+am+Iron+Man.;To+infinity+and+beyond!" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&color=00FF00&center=true&vCenter=true&width=950&lines=You+talkin'+to+me%3F;I'll+be+back.;Why+so+serious%3F;Hasta+la+vista%2C+baby.;Life+finds+a+way.;I+am+Iron+Man.;To+infinity+and+beyond!;Say+'what'+again!;That's+a+bingo!;I+live+my+life+a+quarter+mile+at+a+time.;With+great+power+comes+great+responsibility.;I+can+do+this+all+day.;This+is+my+boomstick!;Why'd+it+have+to+be+snakes%3F;I+solemnly+swear+that+I+am+up+to+no+good.;Mischief+managed.;It+does+not+do+to+dwell+on+dreams+and+forget+to+live.;After+all%2C+why+not%3F+Why+shouldn't+I+keep+it%3F;You+shall+not+pass!;One+ring+to+rule+them+all.;Even+the+smallest+person+can+change+the+course+of+the+future.;I+would+have+gone+with+you+to+the+end%2C+into+the+very+fires+of+Mordor.;I+find+your+lack+of+faith+disturbing.;I'm+vengeance.)" alt="Typing Animation" />
 </p>
 
+
+
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWV2dnhjcWltMjRnaHFqcDQ3aGhoamN2N3hsZjdhY2x3bjJyYnV0eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3j1cQmHH21pMEmgd0O/giphy.gif" width="400" />
+</p>
+
+---
 
 <!-- Mona Lisa ASCII Art -->
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
@@ -83,38 +90,11 @@
     </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=FFD700&center=true&vCenter=true&width=800&lines=%24+whoami;I+am+the+watcher+on+the+walls;%24+echo+%22Winter+is+coming%22;Winter+is+coming;%24+echo+%22A+Lannister+always+pays+his+debts%22;A+Lannister+always+pays+his+debts;%24+echo+%22Valar+Morghulis%22;Valar+Morghulis;%24+shutdown+-h+now;The+North+remembers." alt="animated terminal" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=FFD700&center=true&vCenter=true&width=800&lines=%24+whoami;I+am+the+watcher+on+the+walls;%24+echo+%22Winter+is+coming%22;Winter+is+coming;%24+echo+%22A+Lannister+always+pays+his+debts%22;A+Lannister+always+pays+his+debts;%24+echo+%22Valar+Morghulis%22;Valar+Morghulis;%24+echo+%22The+North+remembers%22;The+North+remembers;%24+echo+%22Fire+and+Blood%22;Fire+and+Blood;%24+echo+%22Hold+the+door%22;Hold+the+door;%24+echo+%22Chaos+is+a+laddder%22;Chaos+is+a+laddder;%24+echo+%22You+win+or+you+die%22;You+win+or+you+die;%24+echo+%22Dracarys%22;Dracarys;%24+echo+%22What+is+dead+may+never+die%22;What+is+dead+may+never+die" alt="animated terminal" />
 </p>
 
 
   </div>
-</p>
-
-
----
-
-## 📊 Life Stats
-```
-Laziness      ██████████░░░  80%
-Curiosity     ████████████  100%
-Snack Supply  ██████░░░░░░  60%
-Sleep Debt    ████████████  110%
-```
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWV2dnhjcWltMjRnaHFqcDQ3aGhoamN2N3hsZjdhY2x3bjJyYnV0eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3j1cQmHH21pMEmgd0O/giphy.gif" width="400" />
-</p>
-
----
-
-## 🎨 Random Fact Generator
-> I once waved at a crow, and it nodded back. We are now pen pals.
-
----
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
 </p>
 
 ---
