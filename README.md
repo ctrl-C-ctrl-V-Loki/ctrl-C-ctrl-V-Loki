@@ -78,33 +78,5 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&color=00FF00&center=true&vCenter=true&width=950&lines=You+talkin'+to+me%3F;I'll+be+back.;Why+so+serious%3F;Hasta+la+vista%2C+baby.;I+am+Iron+Man.;Say+'what'+again!;That's+a+bingo!;With+great+power+comes+great+responsibility.;I+can+do+this+all+day.;Why'd+it+have+to+be+snakes%3F;I+solemnly+swear+that+I+am+up+to+no+good.;Mischief+managed.;After+all%2C+why+not%3F+Why+shouldn't+I+keep+it%3F;You+shall+not+pass!;One+ring+to+rule+them+all.;Even+the+smallest+person+can+change+the+course+of+the+future.;I+find+your+lack+of+faith+disturbing.;I'm+vengeance.)" alt="Typing Animation" />
-</p>
-
----
-~~~
-<!-- Fake terminal window + animated typing -->
-<p align="center">
-  <div align="center" style="background:#0b0f10;padding:16px 20px;border-radius:14px;display:inline-block;box-shadow:0 4px 20px rgba(0,0,0,0.3);">
-    <!-- title bar -->
-    <div style="display:flex;gap:8px;align-items:center;margin-bottom:10px;">
-      <span style="width:12px;height:12px;background:#ff5f57;border-radius:50%;display:inline-block;"></span>
-      <span style="width:12px;height:12px;background:#febc2e;border-radius:50%;display:inline-block;"></span>
-      <span style="width:12px;height:12px;background:#28c840;border-radius:50%;display:inline-block;"></span>
-      <span style="color:#9aa5b1;font-family:ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace;font-size:12px;margin-left:10px;">bash — him@localhost</span>
-    </div>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=FFD700&center=true&vCenter=true&width=800&lines=%24+whoami;I+am+the+watcher+on+the+walls;%24+echo+%22Winter+is+coming%22;Winter+is+coming;%24+echo+%22A+Lannister+always+pays+his+debts%22;A+Lannister+always+pays+his+debts;%24+echo+%22Valar+Morghulis%22;Valar+Morghulis;%24+echo+%22The+North+remembers%22;The+North+remembers;%24+echo+%22Fire+and+Blood%22;Fire+and+Blood;%24+echo+%22Hold+the+door%22;Hold+the+door;%24+echo+%22Chaos+is+a+laddder%22;Chaos+is+a+laddder;%24+echo+%22You+win+or+you+die%22;You+win+or+you+die;%24+echo+%22Dracarys%22;Dracarys;%24+echo+%22What+is+dead+may+never+die%22;What+is+dead+may+never+die" alt="animated terminal" />
-</p>
-
-
-  </div>
-</p>
-
-~~~
----
-
-<p align="center">
   <b>Bottom text 🥀</b>
 </p>
