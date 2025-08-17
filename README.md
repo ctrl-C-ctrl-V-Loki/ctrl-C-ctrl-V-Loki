@@ -82,7 +82,7 @@
 </p>
 
 ---
-<!--
+'''
 <!-- Fake terminal window + animated typing -->
 <p align="center">
   <div align="center" style="background:#0b0f10;padding:16px 20px;border-radius:14px;display:inline-block;box-shadow:0 4px 20px rgba(0,0,0,0.3);">
@@ -102,7 +102,7 @@
   </div>
 </p>
 
--->
+'''
 ---
 
 <p align="center">
