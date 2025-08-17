@@ -4,7 +4,7 @@
 </p>
 
 
-
+---
 
 
 
@@ -12,7 +12,6 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWV2dnhjcWltMjRnaHFqcDQ3aGhoamN2N3hsZjdhY2x3bjJyYnV0eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3j1cQmHH21pMEmgd0O/giphy.gif" width="400" />
 </p>
 
----
 
 <!-- Mona Lisa ASCII Art -->
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
